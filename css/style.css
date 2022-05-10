@@ -1,0 +1,62 @@
+/* Generics */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #80808080;
+}
+
+.header, .main-header{
+    width: 100%;
+    background-color: #ffff;
+}
+
+#logo{
+    height: 80px;
+    margin: 20px 10px ;
+    vertical-align: middle;
+}
+
+h1{
+    display: inline;
+    vertical-align: middle;
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+}
+
+.main-header{
+    width: 800px;
+    height: 40px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 5px 5px 0 0;
+    
+}
+
+
+#button-task{
+    width: 100px;
+    background-color: blue;
+    color: #ffff;
+    display: inline-block;
+    text-align: center;
+    border-radius: 2px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border: 1px solid;
+}
+
+#button-section{
+    width: 100px;
+    background-color: #ffff;
+    color: gray;
+    display: inline-block;
+    text-align: center;
+    border-radius: 2px;
+    border: 1px solid gray;
+    margin-top: 10px;
+}
+
